@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.billboard",
+    "sha256_cert_fingerprints":
+    ["C3:1C:F7:69:94:DC:58:E1:C7:AB:29:72:B7:1F:24:FA:79:6F:04:5E:61:9A:98:44:D2:0E:1C:75:73:D9:83:61"]
+  }
+}]
